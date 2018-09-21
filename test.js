@@ -1,2 +1,1 @@
-echo "Test";
 echo "Hello";
